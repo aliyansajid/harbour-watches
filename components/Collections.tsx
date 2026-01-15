@@ -5,17 +5,17 @@ export default function Collections() {
     {
       title: 'Classic Series',
       description: 'Heritage meets craftsmanship',
-      image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=800&q=80',
     },
     {
       title: 'Modern Line',
       description: 'Contemporary sophistication',
-      image: 'https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1609587312208-cea54be969e7?w=800&q=80',
     },
     {
       title: 'Sport Collection',
       description: 'Precision in motion',
-      image: 'https://images.unsplash.com/photo-1622434641406-a158123450f9?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1587836374228-4c3b8b4c7c5b?w=800&q=80',
     },
   ];
 
