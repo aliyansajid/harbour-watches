@@ -96,7 +96,7 @@ export default function Heritage() {
           <div className="relative">
             <div className="aspect-[4/5] bg-gray-200 overflow-hidden mb-4">
               <img
-                src="https://images.unsplash.com/photo-LWPPpkn6NEQ?w=800&q=80"
+                src="https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2024/05/Where-are-Patek-Philippe-Watches-Made.jpg"
                 alt="Watchmaking craftsmanship"
                 className="w-full h-full object-cover"
               />
@@ -104,14 +104,14 @@ export default function Heritage() {
             <div className="grid grid-cols-2 gap-4">
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://assets.europeanwatch.com/containers/assets/blog/hero-patek-philippe-5930p-world-time-chronograph-scaled.jpg/4ab9c7f31dec91cb0c03171945758167/hero-patek-philippe-5930p-world-time-chronograph-scaled.webp"
+                  src="https://time4diamonds.com/cdn/shop/articles/img_0275_1_cfaff1e5-26c0-4e66-b38d-b7abb62d9550.jpg?v=1754043947&width=1500"
                   alt="Watch detail"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://time4diamonds.com/cdn/shop/articles/blog-why-is-the-patek-philippe-nautilus-the-hardest-luxury-watch-to-get-right-now-image1_8993c58b-2926-4399-bc5d-1896d3a090fc.jpg?v=1761560209&width=1500"
+                  src="https://time4diamonds.com/cdn/shop/articles/img_4247_1_4bf1aa58-8bcf-40a1-8fdd-ac788c9c0604.jpg?v=1754042053&width=1500"
                   alt="Movement detail"
                   className="w-full h-full object-cover"
                 />

@@ -29,7 +29,7 @@ export default function WatchesShowcase() {
       name: 'Navigator Chronograph',
       collection: 'Sport Collection',
       price: '$4,850',
-      image: 'https://images.unsplash.com/photo-GaHmbqNh5q8?w=800&q=80',
+      image: 'https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2024/06/Patek-Philippe-Ultimate-Guide.jpg',
       description: 'A precision instrument designed for those who demand excellence. The Navigator Chronograph combines robust functionality with elegant design, making it perfect for both sporting activities and formal occasions.',
       features: [
         'Swiss automatic chronograph movement',
@@ -75,7 +75,7 @@ export default function WatchesShowcase() {
       name: 'Diver Pro 300',
       collection: 'Sport Collection',
       price: '$5,500',
-      image: 'https://images.unsplash.com/photo--0ZHq2f8LAo?w=800&q=80',
+      image: 'https://time4diamonds.com/cdn/shop/articles/blog-why-is-the-patek-philippe-nautilus-the-hardest-luxury-watch-to-get-right-now-image1_8993c58b-2926-4399-bc5d-1896d3a090fc.jpg?v=1761560209&width=1500',
       description: 'Built for the depths, designed for life above water. The Diver Pro 300 is a professional diving instrument that doesn\'t compromise on style, featuring a robust construction and impeccable finishing.',
       features: [
         'Unidirectional rotating bezel',

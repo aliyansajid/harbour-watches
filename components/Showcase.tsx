@@ -50,7 +50,7 @@ export default function Showcase() {
           <div className="relative">
             <div className="aspect-square bg-gray-100 overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-wGeNkndPSn4?w=800&q=80"
+                src="https://assets.europeanwatch.com/containers/assets/blog/1z2a6835-2-scaled.jpg/477f2c7e3c4047cbfce70c4bf0e29b80/1z2a6835-2-scaled.webp"
                 alt="Harbour Navigator Watch"
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-700"
               />
@@ -62,7 +62,7 @@ export default function Showcase() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1f8wFF4YSXc?w=400&q=80"
+              src="https://cdn.shopify.com/s/files/1/0025/2329/9889/files/BS-Audemars-Piguet-Royal-Oak-4100-22.jpg"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
@@ -76,14 +76,14 @@ export default function Showcase() {
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://assets.europeanwatch.com/containers/assets/blog/1z2a6835-2-scaled.jpg/477f2c7e3c4047cbfce70c4bf0e29b80/1z2a6835-2-scaled.webp"
+              src="https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/2car_1-1?size=940,0&fmt=avif-alpha&dpr=off"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-MmiTWpThLbI?w=400&q=80"
+              src="https://ewwatches.com/cdn/shop/files/d1d7aa7b-ba15-4e53-983b-c995edc015e1.jpg?v=1765882625&width=1400"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />

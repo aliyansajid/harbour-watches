@@ -15,7 +15,7 @@ export default function Collections() {
     {
       title: 'Sport Collection',
       description: 'Precision in motion',
-      image: 'https://images.unsplash.com/photo-LWPPpkn6NEQ?w=800&q=80',
+      image: 'https://assets.europeanwatch.com/containers/assets/blog/hero-patek-philippe-5930p-world-time-chronograph-scaled.jpg/4ab9c7f31dec91cb0c03171945758167/hero-patek-philippe-5930p-world-time-chronograph-scaled.webp',
     },
   ];
 
