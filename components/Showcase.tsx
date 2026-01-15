@@ -50,7 +50,7 @@ export default function Showcase() {
           <div className="relative">
             <div className="aspect-square bg-gray-100 overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1611148537235-e335b44df567?w=800&q=80"
+                src="https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=800&q=80"
                 alt="Harbour Navigator Watch"
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-700"
               />
@@ -62,28 +62,28 @@ export default function Showcase() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1587836374228-4c3b8b4c7c5b?w=400&q=80"
+              src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=400&q=80"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=400&q=80"
+              src="https://time4diamonds.com/cdn/shop/articles/blog-why-is-the-patek-philippe-nautilus-the-hardest-luxury-watch-to-get-right-now-image1_8993c58b-2926-4399-bc5d-1896d3a090fc.jpg?v=1761560209&width=1500"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=400&q=80"
+              src="https://cdn.shopify.com/s/files/1/0025/2329/9889/files/BS-Audemars-Piguet-Royal-Oak-4100-22.jpg"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1617096200347-cb04ae810b1d?w=400&q=80"
+              src="https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=400&q=80"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />

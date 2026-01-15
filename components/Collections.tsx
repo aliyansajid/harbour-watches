@@ -5,17 +5,17 @@ export default function Collections() {
     {
       title: 'Classic Series',
       description: 'Heritage meets craftsmanship',
-      image: 'https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=800&q=80',
+      image: 'https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2024/06/Patek-Philippe-Ultimate-Guide.jpg',
     },
     {
       title: 'Modern Line',
       description: 'Contemporary sophistication',
-      image: 'https://images.unsplash.com/photo-1609587312208-cea54be969e7?w=800&q=80',
+      image: 'https://time4diamonds.com/cdn/shop/articles/img_0275_1_cfaff1e5-26c0-4e66-b38d-b7abb62d9550.jpg?v=1754043947&width=1500',
     },
     {
       title: 'Sport Collection',
       description: 'Precision in motion',
-      image: 'https://images.unsplash.com/photo-1587836374228-4c3b8b4c7c5b?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80',
     },
   ];
 

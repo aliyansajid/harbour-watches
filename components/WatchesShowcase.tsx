@@ -29,7 +29,7 @@ export default function WatchesShowcase() {
       name: 'Navigator Chronograph',
       collection: 'Sport Collection',
       price: '$4,850',
-      image: 'https://images.unsplash.com/photo-1587836374228-4c3b8b4c7c5b?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80',
       description: 'A precision instrument designed for those who demand excellence. The Navigator Chronograph combines robust functionality with elegant design, making it perfect for both sporting activities and formal occasions.',
       features: [
         'Swiss automatic chronograph movement',
@@ -52,7 +52,7 @@ export default function WatchesShowcase() {
       name: 'Heritage Dress',
       collection: 'Classic Series',
       price: '$3,200',
-      image: 'https://images.unsplash.com/photo-1594534475808-b18fc33b045e?w=800&q=80',
+      image: 'https://time4diamonds.com/cdn/shop/articles/img_4247_1_4bf1aa58-8bcf-40a1-8fdd-ac788c9c0604.jpg?v=1754042053&width=1500',
       description: 'Timeless elegance meets precision engineering. The Heritage Dress watch embodies understated sophistication with its clean dial and slim profile, perfect for the discerning gentleman.',
       features: [
         'Ultra-thin automatic movement',
@@ -75,7 +75,7 @@ export default function WatchesShowcase() {
       name: 'Diver Pro 300',
       collection: 'Sport Collection',
       price: '$5,500',
-      image: 'https://images.unsplash.com/photo-1611148537235-e335b44df567?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=800&q=80',
       description: 'Built for the depths, designed for life above water. The Diver Pro 300 is a professional diving instrument that doesn\'t compromise on style, featuring a robust construction and impeccable finishing.',
       features: [
         'Unidirectional rotating bezel',
@@ -98,7 +98,7 @@ export default function WatchesShowcase() {
       name: 'Moonphase Elite',
       collection: 'Modern Line',
       price: '$6,800',
-      image: 'https://images.unsplash.com/photo-1609587312208-cea54be969e7?w=800&q=80',
+      image: 'https://assets.europeanwatch.com/containers/assets/blog/hero-patek-philippe-5930p-world-time-chronograph-scaled.jpg/4ab9c7f31dec91cb0c03171945758167/hero-patek-philippe-5930p-world-time-chronograph-scaled.webp',
       description: 'Astronomical precision meets artistic beauty. The Moonphase Elite showcases one of watchmaking\'s most romantic complications, tracking the lunar cycle with poetic accuracy.',
       features: [
         'Moonphase complication',
@@ -121,7 +121,7 @@ export default function WatchesShowcase() {
       name: 'Field Explorer',
       collection: 'Sport Collection',
       price: '$2,950',
-      image: 'https://images.unsplash.com/photo-1617096200347-cb04ae810b1d?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=800&q=80',
       description: 'Adventure-ready and built to last. The Field Explorer is inspired by military timepieces, offering exceptional legibility and rugged reliability for outdoor enthusiasts.',
       features: [
         'Anti-magnetic soft iron cage',
@@ -144,7 +144,7 @@ export default function WatchesShowcase() {
       name: 'GMT Traveller',
       collection: 'Modern Line',
       price: '$5,200',
-      image: 'https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&q=80',
+      image: 'https://assets.europeanwatch.com/containers/assets/blog/1z2a6835-2-scaled.jpg/477f2c7e3c4047cbfce70c4bf0e29b80/1z2a6835-2-scaled.webp',
       description: 'The perfect companion for the global citizen. Track two time zones simultaneously with the GMT Traveller\'s independently adjustable hour hand and distinctive 24-hour bezel.',
       features: [
         'GMT complication',
