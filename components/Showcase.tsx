@@ -69,14 +69,14 @@ export default function Showcase() {
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://time4diamonds.com/cdn/shop/articles/blog-why-is-the-patek-philippe-nautilus-the-hardest-luxury-watch-to-get-right-now-image1_8993c58b-2926-4399-bc5d-1896d3a090fc.jpg?v=1761560209&width=1500"
+              src="https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2024/06/Patek-Philippe-Ultimate-Guide.jpg"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://cdn.shopify.com/s/files/1/0025/2329/9889/files/BS-Audemars-Piguet-Royal-Oak-4100-22.jpg"
+              src="https://assets.europeanwatch.com/containers/assets/blog/1z2a6835-2-scaled.jpg/477f2c7e3c4047cbfce70c4bf0e29b80/1z2a6835-2-scaled.webp"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />

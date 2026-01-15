@@ -8,7 +8,7 @@ export default function About() {
           <div className="order-2 md:order-1">
             <div className="relative aspect-[4/5] bg-gray-200 overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=800&q=80"
+                src="https://ewwatches.com/cdn/shop/files/d1d7aa7b-ba15-4e53-983b-c995edc015e1.jpg?v=1765882625&width=1400"
                 alt="Harbour Watches Craftsmanship"
                 className="w-full h-full object-cover"
               />

@@ -29,7 +29,7 @@ export default function WatchesShowcase() {
       name: 'Navigator Chronograph',
       collection: 'Sport Collection',
       price: '$4,850',
-      image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-GaHmbqNh5q8?w=800&q=80',
       description: 'A precision instrument designed for those who demand excellence. The Navigator Chronograph combines robust functionality with elegant design, making it perfect for both sporting activities and formal occasions.',
       features: [
         'Swiss automatic chronograph movement',
@@ -75,7 +75,7 @@ export default function WatchesShowcase() {
       name: 'Diver Pro 300',
       collection: 'Sport Collection',
       price: '$5,500',
-      image: 'https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=800&q=80',
+      image: 'https://images.unsplash.com/photo--0ZHq2f8LAo?w=800&q=80',
       description: 'Built for the depths, designed for life above water. The Diver Pro 300 is a professional diving instrument that doesn\'t compromise on style, featuring a robust construction and impeccable finishing.',
       features: [
         'Unidirectional rotating bezel',
@@ -98,7 +98,7 @@ export default function WatchesShowcase() {
       name: 'Moonphase Elite',
       collection: 'Modern Line',
       price: '$6,800',
-      image: 'https://assets.europeanwatch.com/containers/assets/blog/hero-patek-philippe-5930p-world-time-chronograph-scaled.jpg/4ab9c7f31dec91cb0c03171945758167/hero-patek-philippe-5930p-world-time-chronograph-scaled.webp',
+      image: 'https://www.swisswatchexpo.com/thewatchclub/wp-content/uploads/2024/05/Where-are-Patek-Philippe-Watches-Made.jpg',
       description: 'Astronomical precision meets artistic beauty. The Moonphase Elite showcases one of watchmaking\'s most romantic complications, tracking the lunar cycle with poetic accuracy.',
       features: [
         'Moonphase complication',
@@ -121,7 +121,7 @@ export default function WatchesShowcase() {
       name: 'Field Explorer',
       collection: 'Sport Collection',
       price: '$2,950',
-      image: 'https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=800&q=80',
+      image: 'https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/2car_1-1?size=940,0&fmt=avif-alpha&dpr=off',
       description: 'Adventure-ready and built to last. The Field Explorer is inspired by military timepieces, offering exceptional legibility and rugged reliability for outdoor enthusiasts.',
       features: [
         'Anti-magnetic soft iron cage',
@@ -144,7 +144,7 @@ export default function WatchesShowcase() {
       name: 'GMT Traveller',
       collection: 'Modern Line',
       price: '$5,200',
-      image: 'https://assets.europeanwatch.com/containers/assets/blog/1z2a6835-2-scaled.jpg/477f2c7e3c4047cbfce70c4bf0e29b80/1z2a6835-2-scaled.webp',
+      image: 'https://cdn.shopify.com/s/files/1/0025/2329/9889/files/BS-Audemars-Piguet-Royal-Oak-4100-22.jpg',
       description: 'The perfect companion for the global citizen. Track two time zones simultaneously with the GMT Traveller\'s independently adjustable hour hand and distinctive 24-hour bezel.',
       features: [
         'GMT complication',

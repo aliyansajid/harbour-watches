@@ -104,14 +104,14 @@ export default function Heritage() {
             <div className="grid grid-cols-2 gap-4">
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-GaHmbqNh5q8?w=400&q=80"
+                  src="https://assets.europeanwatch.com/containers/assets/blog/hero-patek-philippe-5930p-world-time-chronograph-scaled.jpg/4ab9c7f31dec91cb0c03171945758167/hero-patek-philippe-5930p-world-time-chronograph-scaled.webp"
                   alt="Watch detail"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo--0ZHq2f8LAo?w=400&q=80"
+                  src="https://time4diamonds.com/cdn/shop/articles/blog-why-is-the-patek-philippe-nautilus-the-hardest-luxury-watch-to-get-right-now-image1_8993c58b-2926-4399-bc5d-1896d3a090fc.jpg?v=1761560209&width=1500"
                   alt="Movement detail"
                   className="w-full h-full object-cover"
                 />
