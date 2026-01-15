@@ -96,7 +96,7 @@ export default function Heritage() {
           <div className="relative">
             <div className="aspect-[4/5] bg-gray-200 overflow-hidden mb-4">
               <img
-                src="https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=800&q=80"
+                src="https://images.unsplash.com/photo-LWPPpkn6NEQ?w=800&q=80"
                 alt="Watchmaking craftsmanship"
                 className="w-full h-full object-cover"
               />
@@ -104,14 +104,14 @@ export default function Heritage() {
             <div className="grid grid-cols-2 gap-4">
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=400&q=80"
+                  src="https://images.unsplash.com/photo-GaHmbqNh5q8?w=400&q=80"
                   alt="Watch detail"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="aspect-square bg-gray-200 overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=400&q=80"
+                  src="https://images.unsplash.com/photo--0ZHq2f8LAo?w=400&q=80"
                   alt="Movement detail"
                   className="w-full h-full object-cover"
                 />

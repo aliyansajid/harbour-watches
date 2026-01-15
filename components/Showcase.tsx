@@ -50,7 +50,7 @@ export default function Showcase() {
           <div className="relative">
             <div className="aspect-square bg-gray-100 overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=800&q=80"
+                src="https://images.unsplash.com/photo-wGeNkndPSn4?w=800&q=80"
                 alt="Harbour Navigator Watch"
                 className="w-full h-full object-cover hover:scale-110 transition-transform duration-700"
               />
@@ -62,7 +62,7 @@ export default function Showcase() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=400&q=80"
+              src="https://images.unsplash.com/photo-1f8wFF4YSXc?w=400&q=80"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
@@ -83,7 +83,7 @@ export default function Showcase() {
           </div>
           <div className="aspect-square bg-gray-100 overflow-hidden group cursor-pointer">
             <img
-              src="https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?w=400&q=80"
+              src="https://images.unsplash.com/photo-MmiTWpThLbI?w=400&q=80"
               alt="Watch detail"
               className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
             />
